@@ -3,7 +3,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import Dashboard from "./Dashboard";
 import Search from "./Search";
 import History from "./History";
-import "./app.css";
+import "./App.css";
 const App = () => {
   return (
     <div className="app">
